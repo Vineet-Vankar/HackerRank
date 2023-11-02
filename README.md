@@ -15,9 +15,9 @@
 
 
 ## :star2: About the Project
-<b>ProblemId: PS008002 </b> <br>
+**ProblemId: PS008002** <br>
 <br>
-<b>Challenge Description with context</b> : <br>
+**Challenge Description with context :** <br>
 Officer of various cadres at GAD may require to refer Govt Rule books for resolving queries on daily basis. So a chatbot system is required to help and guide the officers which is based on Govt rules with it’s interpretation. The system should also support rule based inferencing to address the query given by end user. A support for multiple language to make query/question is desirable. <br>
 <br>
 This is a Project to make a Rule Expert Chatbot which takes Query from the User and Processes it and gives appropriate answer. It reduces the time to search for documents and gives Reliable and Accurate answers.It takes the Query from the User and interpretes the query. After selecting key words and patterns it goes to jason file where Preidefined Rules provided by GAD are written. The Chatbot then matches the patterns and tags and generates an answer which then sent to the User.This saves the User time and reduces the workload of officers during the peak period.
